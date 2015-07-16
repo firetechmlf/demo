@@ -15,6 +15,7 @@ Global
 		{5348F3AA-C6FF-4184-A0D8-8585013F22CA}.Debug|Win32.Build.0 = Debug|Win32
 		{5348F3AA-C6FF-4184-A0D8-8585013F22CA}.Release|Win32.ActiveCfg = Release|Win32
 		{5348F3AA-C6FF-4184-A0D8-8585013F22CA}.Release|Win32.Build.0 = Release|Win32
+		{5348F3AA-C6FF-4184-A0D8-8585013F22CA}.Release|Win32.Deploy.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

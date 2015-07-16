@@ -77,3 +77,5 @@ $RECYCLE.BIN/
 *.aps
 /demo/Debug
 /demo/ipch
+/demo/Release
+/demo/res

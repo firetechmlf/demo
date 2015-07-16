@@ -36,6 +36,9 @@
     <ClInclude Include="ssbs.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="wchartochar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="demo.cpp">
@@ -48,6 +51,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ssbs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wchartochar.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

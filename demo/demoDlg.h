@@ -7,12 +7,7 @@
 #include "afxwin.h"
 #include "winsock2.h"
 
-#define RECVDATA_SIZE	4096
-struct RECVTHREAD
-{
-	SOCKET recvsock;
-	HWND hwnd;
-};
+
 
 
 // CdemoDlg ¶Ô»°¿ò
